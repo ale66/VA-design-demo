@@ -1,12 +1,10 @@
 # VA-design-demo
 
-This repository holds the V&A Design Generator jupyter notebook where users can input prompts and output images of V&A inspired made up objects representing these prompts. 
+This repository holds the jupyter notebooks for demonstrating the [V&A Design Generator project](https://github.com/ale66/VA-design-demo) where users can input prompts and output images of V&A inspired made up objects representing these prompts. 
 
 Here is an example:
 
-https://github.com/ale66/VA-design-demo
-
-![An example of a generated image](example-statuette.jpeg "An example of a generated image")
+![An example of a generated image](images/example-statuette.jpeg "An example of a generated image")
 
 You can either run the notebook locally or you can host it on a web server by running the command: `voila demo.ipynb`
 
